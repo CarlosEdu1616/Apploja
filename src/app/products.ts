@@ -22,13 +22,13 @@ export const products = [
     id: 3,
     name: 'Sansung',
     price: 299,
-    description: ''
+    description: 'Minhau'
   },
   {
     id: 4,
     name: 'Motorola',
     price: 299,
-    description: ''
+    description: 'Jato equilibrado'
   },
 
 ];
